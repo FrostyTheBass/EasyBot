@@ -14,7 +14,7 @@ fdpta: "on",
 
 var easyBot = {}; //    [Borgeous]    [iFrooosty]
 
-easyBot.admins =["5155fcbe3e083e1c862e0a8e"], ["51f92b6c3e083e490803b697"];
+easyBot.admins =["5155fcbe3e083e1c862e0a8e", "51f92b6c3e083e490803b697"];
 
 ////////////////////////////////////////////////////////////////////////////////
 API.sendChat("/meStreetBot está ativo, use a função !comandos para ver os comandos do bot! :warning:");
