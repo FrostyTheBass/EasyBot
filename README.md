@@ -1,3 +1,3 @@
-StreetBoyBot
+EasyBot
 ============
 Just..Fuck You
